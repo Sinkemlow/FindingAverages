@@ -1,0 +1,2 @@
+# FindingAverages
+Finding Averages exercise.
